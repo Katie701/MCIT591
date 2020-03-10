@@ -1,4 +1,5 @@
-
+/**create a card class
+*/
 public class Card {
 
 	String name;

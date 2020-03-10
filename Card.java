@@ -1,4 +1,5 @@
 /**create a card class
+author: katie wang
 */
 public class Card {
 
